@@ -59,5 +59,5 @@ not.  Then go there.
 [geo]: http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Geographical_coordinates
 
 # Pressure679
-
+github.com/pressure679/WikiPagerankDB/tools.go
 I honestly copy/pasted the xml types for Wikipedia's XML dumps, but the code also taught me a bunch of stuff about Go and the use of (effective) Go with XML.
